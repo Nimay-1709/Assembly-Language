@@ -1,4 +1,4 @@
-# File Name: Prime_Number_Checker.asm
+# File Name: Check_Prime_Number.asm
 # Author Name: Nimay Patel
 # Purpose: It checks if the number is between 0 and 1000 and
 # tells if a number is prime or not and exits when 0 is pressed
